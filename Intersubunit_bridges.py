@@ -5,6 +5,7 @@
 # - PyMOL with pyhon v.3 and Pandas package                            #
 # - file with rRNA variant annotation (rRNA_annotation.txt)            #
 ########################################################################
+#Note: can be further optimized to run more efficiently if needed
 
 #You can invoke the script directly in PyMol
 
