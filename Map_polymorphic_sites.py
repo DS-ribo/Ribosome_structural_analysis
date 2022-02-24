@@ -6,7 +6,8 @@
 # - file with rRNA variant annotation (rRNA_annotation.txt)            #
 ########################################################################
 
-#You can invoke the script directly in PyMOL
+#You can invoke the script directly in PyMOL through "@" (using .txt extension is preferable by .py also worked)
+#to convert, simply change .py to .txt
 
 ###PyMOL part
 #load ribosome structure
