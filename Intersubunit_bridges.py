@@ -20,9 +20,7 @@ set ray_opaque_background, off
 #make OsHex and Mg selections (note: there is also Zn in the stucture)
 select OsHex, r. OHX
 select Mg, r. MG
-show_as sticks, OsHex
-show_as sticks, Mg
-hide sticks
+hide spheres
 
 #make selections for ribosome constituents
 select SSU, c. A2
