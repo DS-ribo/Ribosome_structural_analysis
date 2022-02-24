@@ -7,7 +7,8 @@
 ########################################################################
 #Note: can be further optimized to run more efficiently if needed
 
-#You can invoke the script directly in PyMol
+#You can invoke the script directly in PyMOL through "@" (using .txt extension is preferable by .py also worked)
+#to convert, simply change .py to .txt
 
 ###PyMOL part
 #load ribosome structure
